@@ -14,3 +14,4 @@ const sally = {
 billy.transferAmount.call(sally,30);
 
 /* call is used to borrow or to reuse functions.
+/* if you want to reuse a function in other function you could use call and apply.
