@@ -11,6 +11,6 @@ const sally = {
   console.log(money);
 }
 
-console.log(billy.transferAmount.call(sally,30));
+billy.transferAmount.call(sally,30);
 
 /* call is used to borrow or to reuse functions.
