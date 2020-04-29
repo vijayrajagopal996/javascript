@@ -1,0 +1,19 @@
+javascript was first developed by netscape, since there were no standards for javascript, standard is basically 
+a rule which needs to be followed by all, since there were no such rules or standards, the rest of the browsers started 
+inventing their own versions of javascript, this was weird, as there were no rules, and each browsers could
+develop their own versions of javascript, and it was very difficult to develop an application, say for
+example we have three different browsers(internet explorer, chrome and firefox), we need to develop three
+different applications of the same, let me be very clear, say if you developed a facebook application using 
+chrome, that application will run only on chrome, no other browsers can run that same facebook application, as
+all these browsers have their own versions of javascript, it was very difficult to run an application on all
+these browsers, if you wanted your facebook application to be supported on all these three browsers, you would
+end up creating 3 versions of facebook application itself, one for chrome, one for firefox and so on, to
+avoid this netscape handed over their javascript to the international standard called ECMASCRIPT, finally
+ecmascript had a standards, since then there were no standards, with the ecmascript it is rule now, all
+the browsers have to follow the standards, so that we can have one facebook application that can be run on
+all the browsers, ecmascript made everything easy now, but this is not true, it is not ecmascript which is
+doing everything, it created the standards thats all, but how all these browsers follow these standards 
+created by ecmascript, that is something because of babel, babel is the one which is doing all of these,
+babel is a javascript compiler that compiles all the latest source code or a release that were released by 
+ecmascript and converts that to a compatible browser code, since then browser were able to understand 
+all the new changes created by ecmascript.
